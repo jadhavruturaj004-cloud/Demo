@@ -1,3 +1,3 @@
 # Demo
 This is my second Repository 
-Author : ruturaj jadhav
+Author : ruturaj jadhav (Student)
